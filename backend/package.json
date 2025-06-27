@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mathjax-full": "^3.2.2",
+    "mathjax-node": "^2.1.1",
+    "speech-rule-engine": "^5.0.0-alpha.2"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "Latex_to_Speech.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": ""
+}
